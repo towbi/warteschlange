@@ -1,0 +1,10 @@
+package Foo::Bar;
+
+sub work {
+    print "Starting work ...\n";
+    sleep(1);
+    print "Finishing work ...\n";
+}
+
+1;
+
